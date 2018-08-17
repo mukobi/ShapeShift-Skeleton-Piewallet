@@ -11,7 +11,7 @@ body {
     background:#4ba0eb;
 }
 .container {
-    margin:10px;
+    margin:10px auto;
 }
 
 .btn-group ul.dropdown-menu {
