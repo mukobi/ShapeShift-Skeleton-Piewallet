@@ -1,4 +1,6 @@
-# ShapeShift-Skeleton
+# ShapeShift-Skeleton-Piewallet
+
+Shapeshift Skeleton modified for use on paypeer.io
 
 To Run: </br>
   git clone https://github.com/Shapeshift-Public/ShapeShift-Skeleton </br>
