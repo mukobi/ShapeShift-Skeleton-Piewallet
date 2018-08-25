@@ -17,7 +17,7 @@ html {
 ::-webkit-resizer { background-color: #666;}
 
 body {
-    background-color: #00001a;
+    background-color: transparent;
     color: white;
 }
 
